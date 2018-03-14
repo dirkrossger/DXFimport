@@ -1,0 +1,8 @@
+H:\GitExtensions\DxfImport\DxfImport\bin\Debug\DXFImport.exe.config
+H:\GitExtensions\DxfImport\DxfImport\bin\Debug\DXFImport.exe
+H:\GitExtensions\DxfImport\DxfImport\bin\Debug\DXFImport.pdb
+H:\GitExtensions\DxfImport\DxfImport\obj\Debug\DxfImport.csprojResolveAssemblyReference.cache
+H:\GitExtensions\DxfImport\DxfImport\obj\Debug\DXFImportForm.Form1.resources
+H:\GitExtensions\DxfImport\DxfImport\obj\Debug\DxfImport.csproj.GenerateResource.Cache
+H:\GitExtensions\DxfImport\DxfImport\obj\Debug\DXFImport.exe
+H:\GitExtensions\DxfImport\DxfImport\obj\Debug\DXFImport.pdb
